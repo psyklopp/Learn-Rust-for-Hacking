@@ -10,3 +10,4 @@ My main sources for help, reference and documentation will be [Rust by Example](
 ## Day #1
 - Installing Rust - [rustup](https://rustup.rs/)
 - [Hello World](https://doc.rust-lang.org/rust-by-example/hello.html)
+- [Formatted Print](https://doc.rust-lang.org/rust-by-example/hello/print.html)
