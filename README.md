@@ -14,3 +14,6 @@ My main sources for help, reference and documentation will be [Rust by Example](
 
 ## Day #2
 - [fmt::Display](https://doc.rust-lang.org/rust-by-example/hello/print/print_display/testcase_list.html)
+
+## Day #3
+- [fmt::Debug](https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html)
