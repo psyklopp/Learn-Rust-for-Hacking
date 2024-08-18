@@ -11,3 +11,6 @@ My main sources for help, reference and documentation will be [Rust by Example](
 - Installing Rust - [rustup](https://rustup.rs/)
 - [Hello World](https://doc.rust-lang.org/rust-by-example/hello.html)
 - [Formatted Print](https://doc.rust-lang.org/rust-by-example/hello/print.html)
+
+## Day #2
+- [fmt::Display](https://doc.rust-lang.org/rust-by-example/hello/print/print_display/testcase_list.html)
