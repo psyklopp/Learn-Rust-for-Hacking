@@ -23,3 +23,4 @@ My main sources for help, reference and documentation will be [Rust by Example](
 
 ## Day #5
 - Getting more comfortable with `traits` [1.2.2 - Display](https://doc.rust-lang.org/rust-by-example/hello/print/print_display.html)
+- Finishing with some cool `formatting` tricks - [1.2.3 Formatting](https://doc.rust-lang.org/rust-by-example/hello/print/fmt.html)
