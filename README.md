@@ -17,3 +17,9 @@ My main sources for help, reference and documentation will be [Rust by Example](
 
 ## Day #3
 - [fmt::Debug](https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html)
+
+## Day #4
+- Implementing `fmt::Display` for the first time
+
+## Day #5
+- Getting more comfortable with `traits` [1.2.2 - Display](https://doc.rust-lang.org/rust-by-example/hello/print/print_display.html)
