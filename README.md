@@ -30,3 +30,5 @@ My main sources for help, reference and documentation will be [Rust by Example](
 - [2.1 Literals and Operators](https://doc.rust-lang.org/rust-by-example/primitives/literals.html)
 - [2.2 Tuples](https://doc.rust-lang.org/rust-by-example/primitives/tuples.html)
 
+## Day #7
+- Slices are similar to array but... - [2.3 - Arrays and Slices](https://doc.rust-lang.org/rust-by-example/primitives/array.html)
