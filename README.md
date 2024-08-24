@@ -32,3 +32,6 @@ My main sources for help, reference and documentation will be [Rust by Example](
 
 ## Day #7
 - Slices are similar to array but... - [2.3 - Arrays and Slices](https://doc.rust-lang.org/rust-by-example/primitives/array.html)
+
+## Day #8
+- Custom types - Starting with structures - [3.1 - Structures](https://doc.rust-lang.org/rust-by-example/custom_types/structs.html)
