@@ -1,9 +1,11 @@
 // Struct with fields
+#[derive(Debug)]
 struct Point {
     x: f32,
     y: f32,
 }
 
+#[derive(Debug)]
 struct Rectangle {
     top_left: Point,
     bottom_right: Point,
@@ -36,6 +38,15 @@ Add a function square which takes a Point and a f32 as arguments, and
 returns a Rectangle with its top left corner on the point, and a width and height corresponding to the f32.
 */
 
+fn square(point: Point, side_length: f32) -> Rectangle {
+    let Point {x: x1, y: y1} = point;
+    let bottom_right_square = Point {x: x1 + side_length, y: y1 - side_length};
+    return Rectangle {
+        top_left: point,
+        bottom_right: bottom_right_square
+    };
+}
+
 fn main() {
     let first_point = Point{x: 4.5, y: 2.5};
     let second_point = Point{x: 7.5, y: 1.5};
@@ -46,5 +57,7 @@ fn main() {
     };
 
     rect_area(my_rectangle);
-    println!("End");
+    let my_new_rectangle = square(Point{x: 4.5, y: 2.5}, 1.5);
+    println!("{:?}", my_new_rectangle);
+    println!(" - End - ");
 }
