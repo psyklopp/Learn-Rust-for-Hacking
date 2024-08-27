@@ -35,3 +35,9 @@ My main sources for help, reference and documentation will be [Rust by Example](
 
 ## Day #8
 - Custom types - Starting with structures - [3.1 - Structures](https://doc.rust-lang.org/rust-by-example/custom_types/structs.html)
+
+## Day #9
+- Completed the activities in `3.1 - Structures`
+
+## Day #10
+- Learnt about [3.2 Enums](https://doc.rust-lang.org/rust-by-example/custom_types/enum.html)
