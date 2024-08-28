@@ -41,3 +41,6 @@ My main sources for help, reference and documentation will be [Rust by Example](
 
 ## Day #10
 - Learnt about [3.2 Enums](https://doc.rust-lang.org/rust-by-example/custom_types/enum.html)
+
+## Day #11
+- Did some coding using ```use``` for enums. [3.2.1 use](https://doc.rust-lang.org/stable/rust-by-example/custom_types/enum/enum_use.html)
