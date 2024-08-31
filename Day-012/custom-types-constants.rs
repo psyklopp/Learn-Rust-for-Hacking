@@ -18,6 +18,6 @@ fn main() {
     // Error!1 if you uncomment the following 2
     // Cannot modify a `const`, also accessing or modifying a mutable static variable is unsafe.
     
-    /#// THRESHOLD = 5;
+    // THRESHOLD = 5;
     // LANGUAGE = "Java";
 }
