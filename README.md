@@ -50,3 +50,18 @@ My main sources for help, reference and documentation will be [Rust by Example](
 
 ## Day #13
 - Coming back to [3.2.2. C-like enums](https://doc.rust-lang.org/rust-by-example/custom_types/enum/c_like.html)
+
+## Day #14
+- Finished the [1. Getting Started](https://doc.rust-lang.org/book/ch01-00-getting-started.html) section.
+- Useful tips about `cargo` here - [1.3 Hello,Cargo!](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
+
+<details>
+  
+<summary>Takeaway tips</summary>
+
+- We can create a project using `cargo new`.
+- We can build a project using `cargo build`.
+- We can build and run a project in one step using `cargo run`.
+- We can build a project without producing a binary to check for errors using `cargo check`.
+- Instead of saving the result of the build in the same directory as our code, Cargo stores it in the `target/debug` directory.
+</details>
