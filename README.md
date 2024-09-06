@@ -65,3 +65,18 @@ My main sources for help, reference and documentation will be [Rust by Example](
 - We can build a project without producing a binary to check for errors using `cargo check`.
 - Instead of saving the result of the build in the same directory as our code, Cargo stores it in the `target/debug` directory.
 </details>
+
+## Day #15
+
+- Started the module [3. Common Programming Concepts](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html) section.
+- Studying [3.1 Variables and Mutability](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html)
+
+<details>
+  
+<summary>Takeaway tips</summary>
+
+- Variable is immutable by default.
+- However we can use `mut` to make a variable mutable.
+- Constants aren’t just immutable by default—they’re always immutable.
+- Constants are valid for the entire time a program runs, within the scope in which they were declared. 
+</details>
