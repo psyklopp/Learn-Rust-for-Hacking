@@ -80,3 +80,17 @@ My main sources for help, reference and documentation will be [Rust by Example](
 - Constants aren’t just immutable by default—they’re always immutable.
 - Constants are valid for the entire time a program runs, within the scope in which they were declared. 
 </details>
+
+## Day 16
+
+- Learnt about `shadowing`.
+- Completed the [3.1 Variables and Mutability](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html) section.
+
+<details>
+
+<summary>Takeaway tips</summary>
+
+- Difference between `mut` and `shadowing` is that because we’re effectively creating a new variable when we use the `let` keyword again.
+- First variable is shadowed by the second, which means that the second variable is what the compiler will see when you use the name of the variable.
+
+</details>
