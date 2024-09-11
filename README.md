@@ -94,3 +94,17 @@ My main sources for help, reference and documentation will be [Rust by Example](
 - First variable is shadowed by the second, which means that the second variable is what the compiler will see when you use the name of the variable.
 
 </details>
+
+## Day 17
+
+- Learning about `Data types`.
+- Currently on [3.2. Data Types](https://doc.rust-lang.org/book/ch03-02-data-types.html) section.
+
+<details>
+
+<summary>Takeaway tips</summary>
+
+- Rust is a *statically* typed language, which means that it must know the types of all variables at compile time.
+- A *scalar* type represents a single value. Rust has four primary scalar types: integers, floating-point numbers, Booleans, and characters.
+
+</details>
