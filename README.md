@@ -108,3 +108,17 @@ My main sources for help, reference and documentation will be [Rust by Example](
 - A *scalar* type represents a single value. Rust has four primary scalar types: integers, floating-point numbers, Booleans, and characters.
 
 </details>
+
+## Day 18
+
+- Finished `3.2. Data Types`
+
+<details>
+
+<summary>Takeaway tips</summary>
+
+- Rust has two primitive compound types: *tuples* and *array*.
+- A `tuple` is a general way of grouping together a number of values with a variety of types into one compound type. Tuples have a *fixed length*: once declared, they cannot grow or shrink in size.
+- Unlike a tuple, every element of an `array` must have the same type. Unlike arrays in some other languages, arrays in Rust have a fixed length.
+
+</details>
