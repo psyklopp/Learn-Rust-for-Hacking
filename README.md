@@ -111,7 +111,7 @@ My main sources for help, reference and documentation will be [Rust by Example](
 
 ## Day 18
 
-- Finished `3.2. Data Types`
+- Finished `3.2. Data Types`.
 
 <details>
 
@@ -120,5 +120,20 @@ My main sources for help, reference and documentation will be [Rust by Example](
 - Rust has two primitive compound types: *tuples* and *array*.
 - A `tuple` is a general way of grouping together a number of values with a variety of types into one compound type. Tuples have a *fixed length*: once declared, they cannot grow or shrink in size.
 - Unlike a tuple, every element of an `array` must have the same type. Unlike arrays in some other languages, arrays in Rust have a fixed length.
+
+</details>
+
+## Day 19
+
+- Started [3.3. Functions](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html)
+
+<details>
+
+<summary>Takeaway tips</summary>
+
+- In function signatures, you *must* declare the type of each parameter.
+- Statements are instructions that perform some action and do not return a value.
+- Expressions evaluate to a value.
+- Expressions do not include ending semicolons. If you add a semicolon to the end of an expression, you turn it into a statement, and it will then not return a value.
 
 </details>
