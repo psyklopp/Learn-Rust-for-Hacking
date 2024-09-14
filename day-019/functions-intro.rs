@@ -16,4 +16,11 @@ fn main() {
     }; // this is an expression. 
 
     println!("Value of y = {y}"); // gives 4
+
+    let ans = add_one(y);
+    println!("The value of ans is : {ans}");
+}
+
+fn add_one(y: i32) -> i32 {
+    y + 1 // ; -> adding a semicolon produces an error as it becomes a statement then
 }
