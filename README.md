@@ -137,3 +137,18 @@ My main sources for help, reference and documentation will be [Rust by Example](
 - Expressions do not include ending semicolons. If you add a semicolon to the end of an expression, you turn it into a statement, and it will then not return a value.
 
 </details>
+
+## Day 20
+
+- Finished [3.3. Functions](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html)
+- Finished [3.4. Comments](https://doc.rust-lang.org/book/ch03-04-comments.html)
+- Started [3.5. Control Flow](https://doc.rust-lang.org/book/ch03-05-control-flow.html)
+
+<details>
+
+<summary>Takeaway tips</summary>
+
+- You must be explicit and always provide `if` with a **Boolean** as its condition.
+- In the `if`, `else if` and `else` blocks, if the types are mismatched, it will throw an error.
+
+</details>
