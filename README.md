@@ -151,4 +151,18 @@ My main sources for help, reference and documentation will be [Rust by Example](
 - You must be explicit and always provide `if` with a **Boolean** as its condition.
 - In the `if`, `else if` and `else` blocks, if the types are mismatched, it will throw an error.
 
+## Day 21
+
+- Continued [3.5. Control Flow](https://doc.rust-lang.org/book/ch03-05-control-flow.html)
+- Tried `if` and `while` loop
+
+<details>
+
+<summary>Takeaway tips</summary>
+
+- We can use `break your_return_value_here` to break from the loop and return a value.
+- Nothing else! It is similar to loops in `JAVA` or `C++`.
+
+</details>
+
 </details>
