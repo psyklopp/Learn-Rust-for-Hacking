@@ -150,6 +150,7 @@ My main sources for help, reference and documentation will be [Rust by Example](
 
 - You must be explicit and always provide `if` with a **Boolean** as its condition.
 - In the `if`, `else if` and `else` blocks, if the types are mismatched, it will throw an error.
+</details>
 
 ## Day 21
 
@@ -162,7 +163,5 @@ My main sources for help, reference and documentation will be [Rust by Example](
 
 - We can use `break your_return_value_here` to break from the loop and return a value.
 - Nothing else! It is similar to loops in `JAVA` or `C++`.
-
-</details>
 
 </details>
