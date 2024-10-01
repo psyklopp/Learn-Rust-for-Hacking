@@ -6,7 +6,7 @@ fn main() {
 
     let mut guess = String::new();
 
-    let some_enum = io::stdin()
+    io::stdin()
         .read_line(&mut guess)
         .expect("Failed to read line");
 
